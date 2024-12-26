@@ -3,4 +3,11 @@ Install ke Internal Memory OpenWrt 23.05.5 | REYRE-WRT melalui terminal
 - ketik openwrt-install-amlogic
 - cari dan pilih jenis STB apa yang akan di install
 - ketik nomor stb contoh: 106
-- 
+- ketik 1
+- shutdown openwrt
+- lepas adaptornya
+- lepat sd card
+- nanti akan gagal tunggu beberapa saat
+- lepas lagi adaptornya
+- pasang sd cardnya
+- ulangi beberapa kali sampai nanti terakhir bisa
